@@ -8,8 +8,8 @@
 <h3 align="center">Создаем уникальные механики для майнкрафт сервера UnderVeil</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Minecraft-1.12.2--1.20.1-62B47A?style=for-the-badge&logo=minecraft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Forge-Fabric-DF2D28?style=for-the-badge&logo=curseforge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Minecraft1.20.1-62B47A?style=for-the-badge&logo=minecraft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Forge-DF2D28?style=for-the-badge&logo=curseforge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
@@ -29,9 +29,9 @@
 
 | Мод | Описание | Статус |
 | :--- | :--- | :--- |
-| [VeilMagic](/) | Переработана система крафта | ✅ Активно |
-| [AncientDimensions](/) | Переработка механики добычи | 🚧 В разработке |
-| [CustomNPCs](/) | Введение своих айтемов для сбора, система сбора | ✅ Активно |
+| CraftUnderveil(/) | Переработана система крафта | ✅ Активно |
+| MiningUndervril(/) | Переработка механики добычи | 🚧 В разработке |
+| LootingUnderveil(/) | Введение своих айтемов для сбора, система сбора | 🚧 В разработке |
 
 ---
 
