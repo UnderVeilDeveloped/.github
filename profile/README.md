@@ -1,4 +1,3 @@
-# .github
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/62/b9/c0/62b9c02db463b4b6d07b44919267922a.gif"/>
