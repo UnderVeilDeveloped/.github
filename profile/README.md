@@ -1,9 +1,10 @@
 
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/62/b9/c0/62b9c02db463b4b6d07b44919267922a.gif"/>
+  <img src="https://i.pinimg.com/originals/3d/26/b2/3d26b27f2fccb8a8139d1b577b311fa1.gif"/>
 </p>
 
-<h1 align="center">🧿 UnderVeilDevelopmed</h1>
+<h1 align="center">🧿 UnderVeilDevelopment</h1>
 <h3 align="center">Создаем уникальные механики для майнкрафт сервера UnderVeil</h3>
 
 <p align="center">
@@ -45,4 +46,5 @@ MinecraftModding {
     collaboration = "Discord + GitHub"
     design = "BlockBench + Photoshop"
 }
+
 
